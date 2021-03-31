@@ -6,7 +6,7 @@ Notification Listener app that redirects notifications to the VRPhone app **(VR)
 ## Development Steps
 1. Create Notification Listener Service
 	1. Listen to Notifications Posted ✔️
-	2. Parse Notification Data 
+	2. Parse Notification Data ✔️
 	3. Send Data 
 	4. Handle Permissions. 
 2. Create VR Service 
