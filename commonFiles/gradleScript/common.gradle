@@ -1,0 +1,9 @@
+import dependencies.Dependencies
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    implementation Dependencies.Kotlin.kotlinStdlib
+
+    testImplementation Dependencies.Test.jUnit
+}

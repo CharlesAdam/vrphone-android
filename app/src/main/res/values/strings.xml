@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Virtual Phone</string>
+    <string name="service_name">service name</string>
+</resources>
