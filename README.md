@@ -13,6 +13,7 @@ Notification Listener app that redirects notifications to the VRPhone app **(VR)
 	2. Show Data to User. 
 3. Improve Service 
 	* App Improvemets 📱
+		* Add Firebase
 		* Add switch to disable/enable service on android
 		* Add Notification to show that the service is running
 		* Handle Permissions
