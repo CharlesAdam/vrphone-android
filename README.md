@@ -23,7 +23,7 @@ Notification Listener app that redirects notifications to the VRPhone app **(VR)
 		* Use P2P For Data Transfer ✔️
 		* Organize Imports
 		* Clean Code
-	* VR Service Improvements 
+	* VR Service Improvements 😎
 		* Clean Code
 	* General Improvements
 		* Refactor to messaging service ( client asks for server for updates )
