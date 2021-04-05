@@ -26,6 +26,6 @@ Notification Listener app that redirects notifications to the VRPhone app **(VR)
 	* VR Service Improvements 😎
 		* Clean Code
 	* General Improvements
-		* Refactor to messaging service ( client asks for server for updates )
+		* Refactor to messaging service ( client asks for server for updates ) ✔
 		* Add Message Reply Feature 
 		* Add Call Answer Feature 

@@ -1,0 +1,26 @@
+import dependencies.Dependencies
+
+apply from: Dependencies.common
+
+dependencies {
+
+    //Core
+    implementation Dependencies.AndroidX.coreKtx
+    implementation Dependencies.AndroidX.appCompat
+    implementation Dependencies.AndroidX.constraintLayout
+    implementation Dependencies.AndroidX.material
+
+    //Koin
+    implementation Dependencies.General.koin
+    implementation Dependencies.General.koinAndroid
+    implementation Dependencies.General.koinAndroidViewModel
+
+    testImplementation Dependencies.Test.koinTest
+
+    //Instrumented Tests
+    androidTestImplementation Dependencies.InstrumentedTests.jUnitInstrumented
+    androidTestImplementation Dependencies.InstrumentedTests.expresso
+
+    implementation Dependencies.VRPhone.vrPhoneModule
+
+}
